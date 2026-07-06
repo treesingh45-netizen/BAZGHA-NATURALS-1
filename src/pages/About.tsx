@@ -14,7 +14,7 @@ export function About() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center mb-24">
           <div className="rounded-3xl overflow-hidden luxury-shadow">
-            <img src="/images/natural_ingredients.jpg" alt="Making natural products" className="w-full h-full object-cover" />
+            <img src="./images/natural_ingredients.jpg" alt="Making natural products" className="w-full h-full object-cover" />
           </div>
           <div>
             <h2 className="text-3xl font-serif text-primary-dark mb-6">Our Philosophy</h2>

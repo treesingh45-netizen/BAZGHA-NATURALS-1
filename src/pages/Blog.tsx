@@ -8,21 +8,21 @@ export function Blog() {
       id: 1,
       title: 'The Magic of Black Seed Oil for Hair Growth',
       excerpt: 'Discover why this ancient remedy is making a massive comeback in modern hair care routines.',
-      image: '/images/black_seed_oil.jpg',
+      image: './images/black_seed_oil.jpg',
       date: 'Oct 12, 2026'
     },
     {
       id: 2,
       title: 'Building a Natural Skincare Routine',
       excerpt: 'Learn how to transition from chemical-heavy products to a 100% natural regimen.',
-      image: '/images/hero_bg.jpg',
+      image: './images/hero_bg.jpg',
       date: 'Sep 28, 2026'
     },
     {
       id: 3,
       title: 'Why Handmade Soaps are Better',
       excerpt: 'Commercial soaps strip your skin of natural oils. Here is why switching to handmade herbal soaps is crucial.',
-      image: '/images/neem_soap.jpg',
+      image: './images/neem_soap.jpg',
       date: 'Sep 15, 2026'
     }
   ];

@@ -78,7 +78,7 @@ export function Home() {
 
           <div className="relative z-10 text-center">
             <div className="w-64 h-80 bg-white luxury-shadow rounded-t-full border border-luxury/20 mb-4 flex items-center justify-center p-8 overflow-hidden relative">
-               <img src="/images/sweet_almond_oil.jpg" alt="Almond Oil" className="absolute inset-0 w-full h-full object-cover opacity-80" />
+               <img src="./images/sweet_almond_oil.jpg" alt="Almond Oil" className="absolute inset-0 w-full h-full object-cover opacity-80" />
                <div className="absolute inset-0 bg-gradient-to-t from-white/90 to-white/20"></div>
                <div className="text-center relative z-10 mt-auto mb-4">
                   <div className="text-[10px] uppercase tracking-widest opacity-60 mb-2 font-bold text-primary-dark">Cold Pressed</div>
@@ -226,7 +226,7 @@ export function Home() {
             </div>
             <div className="relative flex justify-center lg:justify-end">
               <div className="w-64 h-80 md:w-80 md:h-96 relative">
-                 <img src="/images/natural_ingredients.jpg" alt="Natural Ingredients" className="absolute inset-0 w-full h-full object-cover shadow-2xl z-10" />
+                 <img src="./images/natural_ingredients.jpg" alt="Natural Ingredients" className="absolute inset-0 w-full h-full object-cover shadow-2xl z-10" />
                  <div className="absolute -bottom-6 -left-6 w-full h-full border border-luxury/30 z-0"></div>
               </div>
             </div>
