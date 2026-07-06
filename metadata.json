@@ -1,0 +1,6 @@
+{
+  "name": "BAZGHA NATURALS",
+  "description": "Premium Organic Skincare & Haircare",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
